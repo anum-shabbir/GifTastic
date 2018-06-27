@@ -1,0 +1,45 @@
+body {
+    padding-top: 20px;
+    font-family: Courier New, Courier, monospace;
+    background: url('backgroundimage.jpg'), no-repeat ;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    background-color: #9c4578;
+    font-weight: bolder;
+    color:white;
+    
+}
+#gifs-appear-here{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.item{
+    width: 30%;
+    padding: 5px;
+    margin: 5px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    background-color: black;
+}
+ 
+.item img{
+    width: 100%;
+    height: 75%;
+}
+
+.rating{
+font-size: 25px;
+font-style: italic;
+color: white;
+font-weight: bold;
+}
+
+.gifs-button{
+    padding: 5px;
+    margin: 5px;
+}
