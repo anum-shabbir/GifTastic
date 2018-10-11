@@ -7,6 +7,6 @@ GIPHY API
 - Each GIF is in pause state, user can click a GIF to animate it and click again to pause it. 
 
 
-Link to My Portfolio: https://anum-shabbir.github.io/Bootstrap-Portfolio/portfolio.html
+Link: https://anum-shabbir.github.io/GifTastic/
 
 Built With: HTML5 CSS3 JavaScript jQuery GIPHY API
