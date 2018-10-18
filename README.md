@@ -1,5 +1,5 @@
 # GifTastic
-Homework#6
+
 
 GIPHY API 
 - There are several buttons on the screen for different types of mood. Press on any button and it will load up 10 related GIFS from GIPHY API
